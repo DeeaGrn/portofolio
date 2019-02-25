@@ -333,6 +333,7 @@ header {
 	margin:0 auto;
 	line-height:60px;
 	max-width:150px;
+	display: none;
 }
 .header-title {
 	position:absolute;
