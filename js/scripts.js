@@ -414,7 +414,7 @@ function initDogma() {
                         saturation: -100
                     }, {
                         lightness: 40
-                    }, 3
+                    }, {
                         visibility: "on"
                     } ]
                 }, {
