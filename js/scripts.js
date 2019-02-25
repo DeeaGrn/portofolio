@@ -327,8 +327,8 @@ function initDogma() {
         action: "init",
         marker: {
             values: [ {
-                latLng: [ 40.7143528, -74.0059731 ],
-                data: "Our office  - New York City",
+                latLng: [ 44.4327025, 26.1018607 ],
+                data: "Office  - Bucharest",
                 options: {
                     icon: "images/marker.png"
                 }
@@ -367,7 +367,7 @@ function initDogma() {
         },
         map: {
             options: {
-                zoom: 14,
+                zoom: 10,
                 zoomControl: true,
                 mapTypeControl: true,
                 scaleControl: true,
