@@ -351,9 +351,7 @@ header {
 	letter-spacing:2px;
 	font-weight:700;
 }
-.header-title h2:hover {
-	text-decoration:line-through;
-}
+
 .at {
 	position:relative;
 	top:50%;
