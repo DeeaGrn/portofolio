@@ -367,7 +367,7 @@ function initDogma() {
         },
         map: {
             options: {
-                zoom: 10,
+                zoom: 12,
                 zoomControl: true,
                 mapTypeControl: true,
                 scaleControl: true,
