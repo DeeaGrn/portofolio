@@ -328,7 +328,7 @@ function initDogma() {
         marker: {
             values: [ {
                 latLng: [ 44.4377401, 25.9545539 ],
-                data: "Our office  - Bucharest",
+                data: "Office  - Bucharest",
                 options: {
                     icon: "images/marker.png"
                 }
