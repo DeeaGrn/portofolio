@@ -350,9 +350,7 @@ header {
 	letter-spacing:2px;
 	font-weight:700;
 }
-.header-title h2:hover {
-	text-decoration:line-through;
-}
+
 .at {
 	position:relative;
 	top:50%;
@@ -534,9 +532,6 @@ header {
 	color:#666;
 	letter-spacing:1px;
 }
-.nav-inner nav li ul li a:hover {
-	text-decoration:line-through;
-}
 .dynamic-title {
 	display:none;
 }
@@ -607,9 +602,6 @@ header {
 	left:0;
 	margin-left:0;
 	padding-left:10%;
-}
-.enter-wrap h4:hover {
-	 text-decoration:line-through;
 }
 .hero-grid {
 	float:left;
@@ -802,9 +794,7 @@ header {
 	font-size:14px;
 	letter-spacing:1px;
 }
-.contact-list li a:hover {
-	text-decoration:line-through;
-}
+
 .map-box {
 	float:left;
 	width:100% ;
@@ -1011,9 +1001,7 @@ header {
 	letter-spacing:2px;
 	font-weight:700
 }
-.show-share span:hover {
-	text-decoration:line-through;
-}
+
 .share-inner {
 	position:fixed;
 	z-index:20;
@@ -1059,9 +1047,7 @@ header {
 	position:relative;
 	line-height:40px;
 }
-.share-icon:hover {
-	text-decoration:line-through;
-}
+
 .share-icon:before{
 	color:#000;
 	font-size:13px;
@@ -1145,9 +1131,7 @@ footer {
 	color: #000;
 	font-weight:700;
 }
-.footer-social li a span:hover {
-	text-decoration:line-through;
-}
+
 .footer-social li a i {
 	display:none;
 }
@@ -1277,9 +1261,7 @@ footer {
 	position:relative;
 	z-index:20;
 }
-.wh-info-box a:hover {
-	text-decoration:line-through;
-}
+
 .wh-info-box span {
 	width:100%;
 	margin-top:10px;
@@ -1424,9 +1406,6 @@ footer {
 	position:relative;
 	float:left;
 	font-family: 'Open Sans', sans-serif;
-}
-.grid-item h3:hover {
-	text-decoration:line-through;
 }
 .grid-item span {
 	width:100%;
